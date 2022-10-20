@@ -57,10 +57,14 @@ const Navigation = () => {
                 <a href="https://www.behance.net/mehdilemaire" target=" _blank" rel="noopener noreferrer"> <i className="fab fa-behance">
                     </i></a>
             </li>
+            <li>
+                <a href="https://codepen.io/Bixroww" target=" _blank" rel="noopener noreferrer"> <i className="fab fa-codepen">
+                  </i></a>
+            </li>
         </ul>
         <div className="signature">
             <p>
-                Lemaire Mehdi - 2022 
+                Lemaire Mehdi - 2022
             </p>
         </div>
       </div>
